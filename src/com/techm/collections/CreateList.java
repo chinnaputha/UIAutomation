@@ -21,6 +21,7 @@ public class CreateList {
 		for(String ele:list){
 			System.out.println("Set Elements-->"+ele);
 			System.out.println("Set Elements-->"+ele);
+			System.out.println("Set Elements-->"+ele);
 		}
 	}
 	public static void main(String[] args) {
