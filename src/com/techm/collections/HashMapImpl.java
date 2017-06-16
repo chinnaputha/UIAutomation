@@ -28,6 +28,7 @@ public class HashMapImpl {
 	         Map.Entry me = (Map.Entry)i.next();
 	         System.out.print(me.getKey() + ": ");
 	         System.out.println(me.getValue());
+	         System.out.println(me.getValue());
 	      }
 	      System.out.println();
 	      int temp = hm.get("KDP").intValue();
