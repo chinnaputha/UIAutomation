@@ -21,6 +21,7 @@ public class HashMapImpl {
 	      hm.put("ATP", 21);
 	      hm.put("KNL", 25);
 	      hm.put("atp", 78);
+	      hm.put("bang", 34);
 	      Set<Entry<String, Integer>> set = hm.entrySet();
 	      Iterator<Entry<String, Integer>> i = set.iterator();
 	      
