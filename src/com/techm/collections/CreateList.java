@@ -22,6 +22,7 @@ public class CreateList {
 			System.out.println("Set Elements-->"+ele);
 			System.out.println("Set Elements-->"+ele);
 			System.out.println("Set Elements-->"+ele);
+			System.out.println("Set Elements-->"+ele);
 		}
 	}
 	public static void main(String[] args) {
