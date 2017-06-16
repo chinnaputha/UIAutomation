@@ -20,6 +20,8 @@ public class ArrayCommon {
         }//for
         if(!commonElement){
         	System.out.println("There is no common Elements in the list");
+        	System.out.println("There is no common Elements in the list");
+
         }
 	}
 	
