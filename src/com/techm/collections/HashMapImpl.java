@@ -22,6 +22,7 @@ public class HashMapImpl {
 	      hm.put("KNL", 25);
 	      hm.put("atp", 78);
 	      hm.put("bang", 34);
+	      hm.put("bang", 54);
 	      Set<Entry<String, Integer>> set = hm.entrySet();
 	      Iterator<Entry<String, Integer>> i = set.iterator();
 	      
